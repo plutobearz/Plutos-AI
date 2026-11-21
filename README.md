@@ -51,12 +51,8 @@ We built Plutos AI around one idea: **powerful AI should be cheap, simple, and a
 
 ---
 
-## Short Bio
-
-> **Plutos AI:** 508+ AI models, super cheap usage. Free users get 20 messages per day, and topped-up users get unlimited. No subscriptions, just top up and go. All sales final, no refunds.
-
----
-
 ## Get Started
-
-**Start free today.** Get 20 daily messages on 508+ models, then top up for unlimited access or create an API key when you're ready to build.
+ 
+> **Start free soon!** 
+> Get 20 daily messages on 508+ models, then top up for unlimited access or create an API key when you're ready to build.
+> Telegram + Web Accessible ( WEBSITE + TELEGRAM BOT IS CURRENTLY IN DEVELOPMENT )  
