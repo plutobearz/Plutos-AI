@@ -17,8 +17,9 @@ We built Plutos AI around one idea: **powerful AI should be cheap, simple, and a
 - **508+ models in one place:** Language, reasoning, coding, and image models, all reachable from one bot and one API.
 - **Very low usage prices:** Pay only for what you use, at rates built to undercut the going price.
 - **Free daily messages:** Every free user gets 20 messages per day at no cost and with no credit card.
+- **Uncensored Messages:** Every prompt you send is ran with a SYSTEM.txt file that attempts to jailbreak the AI and you can then work on whatever project you have in mind!
 - **Top up, no subscription:** Add balance whenever you want. No recurring charges, no commitments.
-- **Unlimited for top-up users:** Once you top up, daily message limits are lifted.
+- **Message limit increased for top-up users:** Once you top up, daily messages now limited to 50 a day.
 - **Pay-as-you-go API keys:** Top up usage credit starting at low amounts and get a ready-to-use API key for your own apps, bots, and tools.
 - **Multiple keys:** Create separate keys for different projects, apps, or teammates to keep usage organized.
 
@@ -29,15 +30,15 @@ We built Plutos AI around one idea: **powerful AI should be cheap, simple, and a
 | Tier | Cost | Access |
 |------|------|--------|
 | **Free** | $0 | 20 messages per day |
-| **Topped-up** | Pay as you go | Unlimited messages, billed by usage |
+| **Topped-up** | Pay as you go | 50 messages a day, billed by usage |
 | **API Keys** | Pay as you go | Keys created from your top-up balance |
 
 ---
 
 ## Who It's For
 
-- **Students and casual users** who want free daily access to many models.
-- **Power users** who want unlimited chat without paying for multiple subscriptions.
+- **Coders** Who want free uncensored daily access to many models. With little to no limitations
+- **Resellers** who want to use this as a window to make a few dollars.
 - **Developers and hobbyists** who want cheap API keys for bots, apps, and experiments.
 - **Anyone** who wants to try different models and compare them in one place.
 
