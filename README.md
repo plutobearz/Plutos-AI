@@ -1,6 +1,6 @@
 # Plutos AI
 
-**508+ AI models. One platform. Pennies per prompt.**
+**Over 508+ AI models, and still counting!**
 
 ---
 
